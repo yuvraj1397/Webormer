@@ -1,7 +1,7 @@
 const consumer = [
     {
         prod_name: "Mini Mogra Rice",
-        seller_name: "Sanjula",
+        seller_name: "sugandh",
         image: '/images/consumer/mogra_rice.jpg',
         price: 450,
         prod_size: "10kg",
@@ -10,7 +10,7 @@ const consumer = [
     },
     {
         prod_name: "Red Grapes",
-        seller_name: "Test",
+        seller_name: "sugandh",
         image: '/images/consumer/red_grapes.jpg',
         price: 200,
         prod_size: "5kg",
@@ -19,7 +19,7 @@ const consumer = [
     },
     {
         prod_name: "Sharp Chana Dal",
-        seller_name: "Silva",
+        seller_name: "sugandh",
         image: '/images/consumer/chana_dhal.jpg',
         price: 70,
         prod_size: "500g",
@@ -28,7 +28,7 @@ const consumer = [
     },
     {
         prod_name: "Gold Atta",
-        seller_name: "Silva",
+        seller_name: "sugandh",
         image: '/images/consumer/gold_atta.jpg',
         price: 560,
         prod_size: "10kg",
@@ -37,7 +37,7 @@ const consumer = [
     },
     {
         prod_name: "Wheat Sona",
-        seller_name: "Alwis",
+        seller_name: "sugandh",
         image:'/images/consumer/sona.jpg',
         price: 50,
         prod_size: "140kg",
@@ -46,7 +46,7 @@ const consumer = [
     },
     {
         prod_name: "Basdmit rice",
-        seller_name: "Perera",
+        seller_name: "sugandh",
         image:'/images/consumer/basmati_rice.jpg',
         price: 500,
         prod_size: "2kg",

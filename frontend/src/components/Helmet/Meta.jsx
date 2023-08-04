@@ -12,9 +12,9 @@ const Meta = ({ title, description, keywords }) => {
 }
 
 Meta.defaultProps = {
-    title: 'Welcome To Agroic',
-    description: 'Agriclutural website by The Department of Agriculture (DoA) of Sri Lanka along with the Keels ',
-    keywords: 'farmers, argio, department of agriculture, agricultural science'
+    title: 'Welcome To Webormer',
+    description: 'A platform for farmers',
+    keywords: 'farmers, webormer'
 }
 
 export default Meta
