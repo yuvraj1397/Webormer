@@ -31,7 +31,7 @@ const ShippingScreen = ({ history }) => {
         <div style={{ marginTop: '100px' }}>
             <FormContainer>
                 <Meta
-                    title="Agroic | Shipping"
+                    title="Webormer | Shipping"
                 />
                 <CheckoutSteps step1 step2 />
                 <h1>Shipping</h1>
