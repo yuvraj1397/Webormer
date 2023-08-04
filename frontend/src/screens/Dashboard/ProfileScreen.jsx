@@ -8,7 +8,7 @@ const ProfileScreen = () => {
     return (
         <div style={{ marginTop: "110px" }}>
             <Meta
-                title="Agroic | Admin Profile"
+                title="Webormer | Admin Profile"
             />
             <Container fluid>
                 <Row>
