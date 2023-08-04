@@ -101,7 +101,7 @@ const SupplierProductEdit = ({ match }) => {
     return (
         <Container style={{ marginBottom: '50px' }}>
             <Meta
-                title="Agroic | Supplier Edit"
+                title="Webormer | Supplier Edit"
             />
             <FormContainer>
                 <h2 style={{ marginTop: '100px', textAlign: 'center' }}>Product Profile</h2>
